@@ -1,0 +1,4 @@
+password: "EDXp0pS26wLKHZy1rDBPUZk0RKfLGIR3"
+
+First find the key by xoring the encrypted cookie and unencrypted cookie. then find the cipher for {showpassword:yes, bgcolor:000000}, 
+then replace the cookie with this value.
